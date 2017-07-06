@@ -51,9 +51,10 @@ h3 {
 	border-bottom:4px solid #7c824a;
     margin-left: 50px;
      margin-right: 50px;
+     line-height: 36px;
 }
 
-.bloque-1 li {
+#estilo li {
 
 border-bottom:3px dotted #2e885a;
 margin-left:26px;
@@ -78,7 +79,7 @@ border-bottom:5px solid #246654;
 
 
 #destacado{
- margin-left: 50px;
+  /*margin-left: 50px;*/
      margin-right: 50px;
      }
 		 body{
@@ -88,8 +89,12 @@ margin-right: 50px;
 }
 .slider{
 margin-left:50px;
-margin-right: 50px;
 
+}
+p, h4{
+margin-left: 50px;
+}
 
-
+#asd ul{
+	margin-left: 28px;
 }
